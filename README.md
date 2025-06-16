@@ -5,7 +5,7 @@
 <h3 align=center>
 <table align=center> <tr>
       <th scope="col">Aviator Prediction App</th>
-      <th scope="col">03 / 26 / 2024</th>
+      <th scope="col">16 / 06 / 2025</th>
   <th scope="col"><a href='https://aviatorpro.app/'>Download</th>
  </tr><table/>
 <h4 align=center>Available for Windows, iOS, and Android
